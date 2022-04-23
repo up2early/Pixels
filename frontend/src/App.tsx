@@ -1,13 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
-import { PictureView } from './view/Picture';
+import { PixelsDisplay } from './pages/PixelsDisplay';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
       </header>
-      <PictureView />
+      <PixelsDisplay />
     </div>
   );
 }
