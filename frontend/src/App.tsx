@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import { PixelsDisplay } from './pages/PixelsDisplay';
 
 function App() {
@@ -7,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
-      <PixelsDisplay />
+      <PixelsDisplay pixels={["#ff0000", "#00ff00"]}/>
     </div>
   );
 }
