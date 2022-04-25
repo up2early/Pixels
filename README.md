@@ -11,4 +11,5 @@ A Blockchain Based Art Project
   - [ ] Add wallet connect and metamask support
   - [ ] Implement a way to update your pixel from the React website
 - Backend
-  - Create contract
+  - [x] Create hardhat project
+  - [ ] Create contract
